@@ -1,5 +1,3 @@
-
-
 #!/bin/bash
 ARRAY=("$@")
 SOURCE=`pwd`
@@ -28,15 +26,3 @@ elif [[ helgrindOUT -gt 0 ]]
 fi
 cd $SOURCE
 exit 0
-
-
-
-      
-       
-  
-
-
-
-
-
-
